@@ -53,8 +53,7 @@ Tables:
 2. Configure MySQL in application.properties
 3. Run the Spring Boot application
 4. Open Swagger:
-
-http://localhost:8080/swagger-ui/index.html
+5. 
 ## 👨‍💻 Author
 
 Kartik Rathore
